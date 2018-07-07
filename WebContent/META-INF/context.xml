@@ -19,7 +19,7 @@
 				antiJARLocking="false"
                 antiResourceLocking="false"
 				username="postgres" 
-				password="postgres"
+				password="mac" 
 				url="jdbc:postgresql://localhost:5432/ebook_jee?autoReconnect=true"/>
 <!-- Classe do tomcat que está lendo esse arquivo é org.apache.tomcat.dbcp.dbcp.PoolingDataSource -->				
 <!-- POOL DE CONEXÕES -->
